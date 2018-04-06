@@ -260,10 +260,10 @@ paket-files/
 __pycache__/
 *.pyc
 
-/Build
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
 Content/StarterContent/
 *.db
